@@ -541,6 +541,66 @@
               <node concept="3zACq4" id="6se1fX79BUG" role="3cqZAp" />
             </node>
           </node>
+          <node concept="3KbdKl" id="1acYXle1094" role="3KbHQx">
+            <node concept="Xl_RD" id="1acYXle1095" role="3Kbmr1">
+              <property role="Xl_RC" value="Enum" />
+            </node>
+            <node concept="3clFbS" id="1acYXle1096" role="3Kbo56">
+              <node concept="3clFbF" id="1acYXle1097" role="3cqZAp">
+                <node concept="37vLTI" id="1acYXle1098" role="3clFbG">
+                  <node concept="37vLTw" id="1acYXle1099" role="37vLTJ">
+                    <ref role="3cqZAo" node="6se1fX79Ain" resolve="generatedMpsEntity" />
+                  </node>
+                  <node concept="1rXfSq" id="1acYXle109a" role="37vLTx">
+                    <ref role="37wK5l" node="1acYXle061g" resolve="createEnumMpsEntity" />
+                    <node concept="37vLTw" id="1acYXle109b" role="37wK5m">
+                      <ref role="3cqZAo" node="2wj9Vm4qgm5" resolve="mpsEntitySpec" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle109c" role="37wK5m">
+                      <ref role="3cqZAo" node="1oy7kWSAHOC" resolve="entityId" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle109d" role="37wK5m">
+                      <ref role="3cqZAo" node="2wj9Vm4qgm7" resolve="mpsEntityCollectionGenerator" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle109e" role="37wK5m">
+                      <ref role="3cqZAo" node="1eKn6bwC6I7" resolve="alreadyGeneratedPart" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+              <node concept="3zACq4" id="1acYXle109f" role="3cqZAp" />
+            </node>
+          </node>
+          <node concept="3KbdKl" id="1acYXle2dwk" role="3KbHQx">
+            <node concept="Xl_RD" id="1acYXle2dwl" role="3Kbmr1">
+              <property role="Xl_RC" value="EnumValue" />
+            </node>
+            <node concept="3clFbS" id="1acYXle2dwm" role="3Kbo56">
+              <node concept="3clFbF" id="1acYXle2dwn" role="3cqZAp">
+                <node concept="37vLTI" id="1acYXle2dwo" role="3clFbG">
+                  <node concept="37vLTw" id="1acYXle2dwp" role="37vLTJ">
+                    <ref role="3cqZAo" node="6se1fX79Ain" resolve="generatedMpsEntity" />
+                  </node>
+                  <node concept="1rXfSq" id="1acYXle2dwq" role="37vLTx">
+                    <ref role="37wK5l" node="1acYXle1nig" resolve="createEnumValueMpsEntity" />
+                    <node concept="37vLTw" id="1acYXle2dwr" role="37wK5m">
+                      <ref role="3cqZAo" node="2wj9Vm4qgm5" resolve="mpsEntitySpec" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle2dws" role="37wK5m">
+                      <ref role="3cqZAo" node="1oy7kWSAHOC" resolve="entityId" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle2dwt" role="37wK5m">
+                      <ref role="3cqZAo" node="2wj9Vm4qgm7" resolve="mpsEntityCollectionGenerator" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle2dwu" role="37wK5m">
+                      <ref role="3cqZAo" node="1eKn6bwC6I7" resolve="alreadyGeneratedPart" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+              <node concept="3zACq4" id="1acYXle2dwv" role="3cqZAp" />
+            </node>
+          </node>
           <node concept="3KbdKl" id="1oy7kWS_QQb" role="3KbHQx">
             <node concept="Xl_RD" id="1oy7kWS_QQc" role="3Kbmr1">
               <property role="Xl_RC" value="Field" />
@@ -963,6 +1023,54 @@
                       <node concept="3zrR0B" id="1WjAuVNnS1C" role="2ShVmc">
                         <node concept="3Tqbb2" id="1WjAuVNnS1D" role="3zrR0E">
                           <ref role="ehGHo" to="80bi:6hv6i2_Azc6" resolve="InterfaceDeclaration" />
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3KbdKl" id="1acYXle1c6a" role="3KbHQx">
+            <node concept="Xl_RD" id="1acYXle1c6b" role="3Kbmr1">
+              <property role="Xl_RC" value="Enum" />
+            </node>
+            <node concept="3clFbS" id="1acYXle1c6c" role="3Kbo56">
+              <node concept="3cpWs6" id="1acYXle1c6d" role="3cqZAp">
+                <node concept="2ShNRf" id="1acYXle1c6e" role="3cqZAk">
+                  <node concept="1pGfFk" id="1acYXle1c6f" role="2ShVmc">
+                    <ref role="37wK5l" to="v0q3:k9tZZRVIcW" resolve="Stub" />
+                    <node concept="37vLTw" id="1acYXle1c6g" role="37wK5m">
+                      <ref role="3cqZAo" node="1eKn6bwCeCB" resolve="mpsEntitySpec" />
+                    </node>
+                    <node concept="2ShNRf" id="1acYXle1c6h" role="37wK5m">
+                      <node concept="3zrR0B" id="1acYXle1c6i" role="2ShVmc">
+                        <node concept="3Tqbb2" id="1acYXle1c6j" role="3zrR0E">
+                          <ref role="ehGHo" to="80bi:6hv6i2_Azc7" resolve="EnumDeclaration" />
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3KbdKl" id="1acYXle25DU" role="3KbHQx">
+            <node concept="Xl_RD" id="1acYXle25DV" role="3Kbmr1">
+              <property role="Xl_RC" value="EnumValue" />
+            </node>
+            <node concept="3clFbS" id="1acYXle25DW" role="3Kbo56">
+              <node concept="3cpWs6" id="1acYXle25DX" role="3cqZAp">
+                <node concept="2ShNRf" id="1acYXle25DY" role="3cqZAk">
+                  <node concept="1pGfFk" id="1acYXle25DZ" role="2ShVmc">
+                    <ref role="37wK5l" to="v0q3:k9tZZRVIcW" resolve="Stub" />
+                    <node concept="37vLTw" id="1acYXle25E0" role="37wK5m">
+                      <ref role="3cqZAo" node="1eKn6bwCeCB" resolve="mpsEntitySpec" />
+                    </node>
+                    <node concept="2ShNRf" id="1acYXle25E1" role="37wK5m">
+                      <node concept="3zrR0B" id="1acYXle25E2" role="2ShVmc">
+                        <node concept="3Tqbb2" id="1acYXle25E3" role="3zrR0E">
+                          <ref role="ehGHo" to="80bi:6$wrg4A_UKD" resolve="EnumMemberDeclaration" />
                         </node>
                       </node>
                     </node>
@@ -2336,6 +2444,446 @@
         <property role="TrG5h" value="alreadyGeneratedPart" />
         <node concept="3uibUv" id="1eKn6bwCsbM" role="1tU5fm">
           <ref role="3uigEE" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+        </node>
+      </node>
+    </node>
+    <node concept="2tJIrI" id="1acYXle0A7h" role="jymVt" />
+    <node concept="3clFb_" id="1acYXle1nig" role="jymVt">
+      <property role="TrG5h" value="createEnumValueMpsEntity" />
+      <node concept="37vLTG" id="1acYXle1nih" role="3clF46">
+        <property role="TrG5h" value="mpsEntitySpec" />
+        <node concept="3uibUv" id="1acYXle1nii" role="1tU5fm">
+          <ref role="3uigEE" to="v0q3:3mOrQ__xOlU" resolve="MpsEntitySpec" />
+        </node>
+      </node>
+      <node concept="37vLTG" id="1acYXle1nij" role="3clF46">
+        <property role="TrG5h" value="entityId" />
+        <node concept="17QB3L" id="1acYXle1nik" role="1tU5fm" />
+      </node>
+      <node concept="37vLTG" id="1acYXle1nil" role="3clF46">
+        <property role="TrG5h" value="mpsEntityCollectionGenerator" />
+        <node concept="3uibUv" id="1acYXle1nim" role="1tU5fm">
+          <ref role="3uigEE" to="v0q3:7e0AhKzBSVG" resolve="MpsEntityCollectionGenerator" />
+        </node>
+      </node>
+      <node concept="37vLTG" id="1acYXle1nin" role="3clF46">
+        <property role="TrG5h" value="alreadyGeneratedPart" />
+        <node concept="3uibUv" id="1acYXle1nio" role="1tU5fm">
+          <ref role="3uigEE" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+        </node>
+      </node>
+      <node concept="3clFbS" id="1acYXle1nip" role="3clF47">
+        <node concept="2xdQw9" id="1acYXle1niq" role="3cqZAp">
+          <property role="2xdLsb" value="h1akgim/info" />
+          <node concept="3cpWs3" id="1acYXle1nir" role="9lYJi">
+            <node concept="37vLTw" id="1acYXle1nis" role="3uHU7w">
+              <ref role="3cqZAo" node="1acYXle1nij" resolve="entityId" />
+            </node>
+            <node concept="Xl_RD" id="1acYXle1nit" role="3uHU7B">
+              <property role="Xl_RC" value="Creating an enum value stub: " />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle1niu" role="3cqZAp" />
+        <node concept="3cpWs8" id="1acYXle1niv" role="3cqZAp">
+          <node concept="3cpWsn" id="1acYXle1niw" role="3cpWs9">
+            <property role="TrG5h" value="stubNode" />
+            <node concept="3Tqbb2" id="1acYXle1nix" role="1tU5fm">
+              <ref role="ehGHo" to="80bi:6$wrg4A_UKD" resolve="EnumMemberDeclaration" />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbJ" id="1acYXle1niy" role="3cqZAp">
+          <node concept="3clFbS" id="1acYXle1niz" role="3clFbx">
+            <node concept="3clFbF" id="1acYXle1ni$" role="3cqZAp">
+              <node concept="37vLTI" id="1acYXle1ni_" role="3clFbG">
+                <node concept="2ShNRf" id="1acYXle1niA" role="37vLTx">
+                  <node concept="3zrR0B" id="1acYXle1niB" role="2ShVmc">
+                    <node concept="3Tqbb2" id="1acYXle1niC" role="3zrR0E">
+                      <ref role="ehGHo" to="80bi:6$wrg4A_UKD" resolve="EnumMemberDeclaration" />
+                    </node>
+                  </node>
+                </node>
+                <node concept="37vLTw" id="1acYXle1niD" role="37vLTJ">
+                  <ref role="3cqZAo" node="1acYXle1niw" resolve="stubNode" />
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3clFbC" id="1acYXle1niE" role="3clFbw">
+            <node concept="10Nm6u" id="1acYXle1niF" role="3uHU7w" />
+            <node concept="37vLTw" id="1acYXle1niG" role="3uHU7B">
+              <ref role="3cqZAo" node="1acYXle1nin" resolve="alreadyGeneratedPart" />
+            </node>
+          </node>
+          <node concept="9aQIb" id="1acYXle1niH" role="9aQIa">
+            <node concept="3clFbS" id="1acYXle1niI" role="9aQI4">
+              <node concept="3clFbF" id="1acYXle1niJ" role="3cqZAp">
+                <node concept="37vLTI" id="1acYXle1niK" role="3clFbG">
+                  <node concept="1eOMI4" id="1acYXle1niL" role="37vLTx">
+                    <node concept="10QFUN" id="1acYXle1niM" role="1eOMHV">
+                      <node concept="3Tqbb2" id="1acYXle1niN" role="10QFUM">
+                        <ref role="ehGHo" to="80bi:6$wrg4A_UKD" resolve="EnumMemberDeclaration" />
+                      </node>
+                      <node concept="2OqwBi" id="1acYXle1niO" role="10QFUP">
+                        <node concept="1eOMI4" id="1acYXle1niP" role="2Oq$k0">
+                          <node concept="10QFUN" id="1acYXle1niQ" role="1eOMHV">
+                            <node concept="3uibUv" id="1acYXle1niR" role="10QFUM">
+                              <ref role="3uigEE" to="v0q3:k9tZZRVI1b" resolve="Stub" />
+                            </node>
+                            <node concept="37vLTw" id="1acYXle1niS" role="10QFUP">
+                              <ref role="3cqZAo" node="1acYXle1nin" resolve="alreadyGeneratedPart" />
+                            </node>
+                          </node>
+                        </node>
+                        <node concept="liA8E" id="1acYXle1niT" role="2OqNvi">
+                          <ref role="37wK5l" to="v0q3:k9tZZRVINg" resolve="getNode" />
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                  <node concept="37vLTw" id="1acYXle1niU" role="37vLTJ">
+                    <ref role="3cqZAo" node="1acYXle1niw" resolve="stubNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle1niV" role="3cqZAp" />
+        <node concept="3clFbF" id="1acYXle1niW" role="3cqZAp">
+          <node concept="37vLTI" id="1acYXle1niX" role="3clFbG">
+            <node concept="2OqwBi" id="1acYXle1niY" role="37vLTJ">
+              <node concept="37vLTw" id="1acYXle1niZ" role="2Oq$k0">
+                <ref role="3cqZAo" node="1acYXle1niw" resolve="stubNode" />
+              </node>
+              <node concept="3TrcHB" id="1acYXle1nj0" role="2OqNvi">
+                <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
+              </node>
+            </node>
+            <node concept="10QFUN" id="1acYXle1nj1" role="37vLTx">
+              <node concept="17QB3L" id="1acYXle1nj2" role="10QFUM" />
+              <node concept="2OqwBi" id="1acYXle1nj3" role="10QFUP">
+                <node concept="37vLTw" id="1acYXle1nj4" role="2Oq$k0">
+                  <ref role="3cqZAo" node="1acYXle1nih" resolve="mpsEntitySpec" />
+                </node>
+                <node concept="liA8E" id="1acYXle1nj5" role="2OqNvi">
+                  <ref role="37wK5l" to="v0q3:6tMbnEHAuS4" resolve="getProperty" />
+                  <node concept="Xl_RD" id="1acYXle1nj6" role="37wK5m">
+                    <property role="Xl_RC" value="name" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle1njy" role="3cqZAp" />
+        <node concept="3clFbJ" id="1acYXle1njz" role="3cqZAp">
+          <node concept="3clFbS" id="1acYXle1nj$" role="3clFbx">
+            <node concept="3cpWs6" id="1acYXle1nj_" role="3cqZAp">
+              <node concept="2ShNRf" id="1acYXle1njA" role="3cqZAk">
+                <node concept="1pGfFk" id="1acYXle1njB" role="2ShVmc">
+                  <ref role="37wK5l" to="v0q3:k9tZZRVIcW" resolve="Stub" />
+                  <node concept="37vLTw" id="1acYXle1njC" role="37wK5m">
+                    <ref role="3cqZAo" node="1acYXle1nih" resolve="mpsEntitySpec" />
+                  </node>
+                  <node concept="37vLTw" id="1acYXle1njD" role="37wK5m">
+                    <ref role="3cqZAo" node="1acYXle1niw" resolve="stubNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3clFbC" id="1acYXle1njE" role="3clFbw">
+            <node concept="10Nm6u" id="1acYXle1njF" role="3uHU7w" />
+            <node concept="37vLTw" id="1acYXle1njG" role="3uHU7B">
+              <ref role="3cqZAo" node="1acYXle1nin" resolve="alreadyGeneratedPart" />
+            </node>
+          </node>
+          <node concept="9aQIb" id="1acYXle1njH" role="9aQIa">
+            <node concept="3clFbS" id="1acYXle1njI" role="9aQI4">
+              <node concept="3cpWs6" id="1acYXle1njJ" role="3cqZAp">
+                <node concept="37vLTw" id="1acYXle1njK" role="3cqZAk">
+                  <ref role="3cqZAo" node="1acYXle1nin" resolve="alreadyGeneratedPart" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="3Tm6S6" id="1acYXle1njL" role="1B3o_S" />
+      <node concept="3uibUv" id="1acYXle1njM" role="3clF45">
+        <ref role="3uigEE" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+      </node>
+      <node concept="P$JXv" id="1acYXle1njN" role="lGtFl">
+        <node concept="TZ5HA" id="1acYXle1njO" role="TZ5H$">
+          <node concept="1dT_AC" id="1acYXle1njP" role="1dT_Ay">
+            <property role="1dT_AB" value="Creates and returns an " />
+          </node>
+          <node concept="1dT_AA" id="1acYXle1njQ" role="1dT_Ay">
+            <node concept="92FcH" id="1acYXle1njR" role="qph3F">
+              <node concept="TZ5HA" id="1acYXle1njS" role="2XjZqd" />
+              <node concept="VXe08" id="1acYXle1njT" role="92FcQ">
+                <ref role="VXe09" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+              </node>
+            </node>
+          </node>
+          <node concept="1dT_AC" id="1acYXle1njU" role="1dT_Ay">
+            <property role="1dT_AB" value=" representing an enum value." />
+          </node>
+        </node>
+      </node>
+    </node>
+    <node concept="2tJIrI" id="1acYXle1ka_" role="jymVt" />
+    <node concept="3clFb_" id="1acYXle061g" role="jymVt">
+      <property role="TrG5h" value="createEnumMpsEntity" />
+      <node concept="37vLTG" id="1acYXle061h" role="3clF46">
+        <property role="TrG5h" value="mpsEntitySpec" />
+        <node concept="3uibUv" id="1acYXle061i" role="1tU5fm">
+          <ref role="3uigEE" to="v0q3:3mOrQ__xOlU" resolve="MpsEntitySpec" />
+        </node>
+      </node>
+      <node concept="37vLTG" id="1acYXle061j" role="3clF46">
+        <property role="TrG5h" value="entityId" />
+        <node concept="17QB3L" id="1acYXle061k" role="1tU5fm" />
+      </node>
+      <node concept="37vLTG" id="1acYXle061l" role="3clF46">
+        <property role="TrG5h" value="mpsEntityCollectionGenerator" />
+        <node concept="3uibUv" id="1acYXle061m" role="1tU5fm">
+          <ref role="3uigEE" to="v0q3:7e0AhKzBSVG" resolve="MpsEntityCollectionGenerator" />
+        </node>
+      </node>
+      <node concept="37vLTG" id="1acYXle061n" role="3clF46">
+        <property role="TrG5h" value="alreadyGeneratedPart" />
+        <node concept="3uibUv" id="1acYXle061o" role="1tU5fm">
+          <ref role="3uigEE" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+        </node>
+      </node>
+      <node concept="3clFbS" id="1acYXle061p" role="3clF47">
+        <node concept="2xdQw9" id="1acYXle061q" role="3cqZAp">
+          <property role="2xdLsb" value="h1akgim/info" />
+          <node concept="3cpWs3" id="1acYXle061r" role="9lYJi">
+            <node concept="37vLTw" id="1acYXle061s" role="3uHU7w">
+              <ref role="3cqZAo" node="1acYXle061j" resolve="entityId" />
+            </node>
+            <node concept="Xl_RD" id="1acYXle061t" role="3uHU7B">
+              <property role="Xl_RC" value="Creating an enum stub: " />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle061u" role="3cqZAp" />
+        <node concept="3cpWs8" id="1acYXle061v" role="3cqZAp">
+          <node concept="3cpWsn" id="1acYXle061w" role="3cpWs9">
+            <property role="TrG5h" value="stubNode" />
+            <node concept="3Tqbb2" id="1acYXle061x" role="1tU5fm">
+              <ref role="ehGHo" to="80bi:6hv6i2_Azc7" resolve="EnumDeclaration" />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbJ" id="1acYXle061y" role="3cqZAp">
+          <node concept="3clFbS" id="1acYXle061z" role="3clFbx">
+            <node concept="3clFbF" id="1acYXle061$" role="3cqZAp">
+              <node concept="37vLTI" id="1acYXle061_" role="3clFbG">
+                <node concept="2ShNRf" id="1acYXle061A" role="37vLTx">
+                  <node concept="3zrR0B" id="1acYXle061B" role="2ShVmc">
+                    <node concept="3Tqbb2" id="1acYXle061C" role="3zrR0E">
+                      <ref role="ehGHo" to="80bi:6hv6i2_Azc7" resolve="EnumDeclaration" />
+                    </node>
+                  </node>
+                </node>
+                <node concept="37vLTw" id="1acYXle061D" role="37vLTJ">
+                  <ref role="3cqZAo" node="1acYXle061w" resolve="stubNode" />
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3clFbC" id="1acYXle061E" role="3clFbw">
+            <node concept="10Nm6u" id="1acYXle061F" role="3uHU7w" />
+            <node concept="37vLTw" id="1acYXle061G" role="3uHU7B">
+              <ref role="3cqZAo" node="1acYXle061n" resolve="alreadyGeneratedPart" />
+            </node>
+          </node>
+          <node concept="9aQIb" id="1acYXle061H" role="9aQIa">
+            <node concept="3clFbS" id="1acYXle061I" role="9aQI4">
+              <node concept="3clFbF" id="1acYXle061J" role="3cqZAp">
+                <node concept="37vLTI" id="1acYXle061K" role="3clFbG">
+                  <node concept="1eOMI4" id="1acYXle061L" role="37vLTx">
+                    <node concept="10QFUN" id="1acYXle061M" role="1eOMHV">
+                      <node concept="3Tqbb2" id="1acYXle061N" role="10QFUM">
+                        <ref role="ehGHo" to="80bi:6hv6i2_Azc7" resolve="EnumDeclaration" />
+                      </node>
+                      <node concept="2OqwBi" id="1acYXle061O" role="10QFUP">
+                        <node concept="1eOMI4" id="1acYXle061P" role="2Oq$k0">
+                          <node concept="10QFUN" id="1acYXle061Q" role="1eOMHV">
+                            <node concept="3uibUv" id="1acYXle061R" role="10QFUM">
+                              <ref role="3uigEE" to="v0q3:k9tZZRVI1b" resolve="Stub" />
+                            </node>
+                            <node concept="37vLTw" id="1acYXle061S" role="10QFUP">
+                              <ref role="3cqZAo" node="1acYXle061n" resolve="alreadyGeneratedPart" />
+                            </node>
+                          </node>
+                        </node>
+                        <node concept="liA8E" id="1acYXle061T" role="2OqNvi">
+                          <ref role="37wK5l" to="v0q3:k9tZZRVINg" resolve="getNode" />
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                  <node concept="37vLTw" id="1acYXle061U" role="37vLTJ">
+                    <ref role="3cqZAo" node="1acYXle061w" resolve="stubNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle061V" role="3cqZAp" />
+        <node concept="3clFbF" id="1acYXle061W" role="3cqZAp">
+          <node concept="37vLTI" id="1acYXle061X" role="3clFbG">
+            <node concept="2OqwBi" id="1acYXle061Y" role="37vLTJ">
+              <node concept="37vLTw" id="1acYXle061Z" role="2Oq$k0">
+                <ref role="3cqZAo" node="1acYXle061w" resolve="stubNode" />
+              </node>
+              <node concept="3TrcHB" id="1acYXle0620" role="2OqNvi">
+                <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
+              </node>
+            </node>
+            <node concept="10QFUN" id="1acYXle0621" role="37vLTx">
+              <node concept="17QB3L" id="1acYXle0622" role="10QFUM" />
+              <node concept="2OqwBi" id="1acYXle0623" role="10QFUP">
+                <node concept="37vLTw" id="1acYXle0624" role="2Oq$k0">
+                  <ref role="3cqZAo" node="1acYXle061h" resolve="mpsEntitySpec" />
+                </node>
+                <node concept="liA8E" id="1acYXle0625" role="2OqNvi">
+                  <ref role="37wK5l" to="v0q3:6tMbnEHAuS4" resolve="getProperty" />
+                  <node concept="Xl_RD" id="1acYXle0626" role="37wK5m">
+                    <property role="Xl_RC" value="name" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle0J11" role="3cqZAp" />
+        <node concept="1DcWWT" id="1acYXle0J2Y" role="3cqZAp">
+          <node concept="3clFbS" id="1acYXle0J2Z" role="2LFqv$">
+            <node concept="3cpWs8" id="1acYXle0J30" role="3cqZAp">
+              <node concept="3cpWsn" id="1acYXle0J31" role="3cpWs9">
+                <property role="TrG5h" value="childSNode" />
+                <node concept="3uibUv" id="1acYXle0J32" role="1tU5fm">
+                  <ref role="3uigEE" to="mhbf:~SNode" resolve="SNode" />
+                </node>
+                <node concept="2OqwBi" id="1acYXle0J33" role="33vP2m">
+                  <node concept="1rXfSq" id="1acYXle0J34" role="2Oq$k0">
+                    <ref role="37wK5l" node="6nRz1Yw0$Wj" resolve="getGeneratedStub" />
+                    <node concept="37vLTw" id="1acYXle0J35" role="37wK5m">
+                      <ref role="3cqZAo" node="1acYXle0J3H" resolve="childSpec" />
+                    </node>
+                    <node concept="37vLTw" id="1acYXle0J36" role="37wK5m">
+                      <ref role="3cqZAo" node="1acYXle061l" resolve="mpsEntityCollectionGenerator" />
+                    </node>
+                  </node>
+                  <node concept="liA8E" id="1acYXle0J37" role="2OqNvi">
+                    <ref role="37wK5l" to="v0q3:k9tZZRVINg" resolve="getNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="3clFbH" id="1acYXle0J38" role="3cqZAp" />
+            <node concept="3clFbF" id="1acYXle0S71" role="3cqZAp">
+              <node concept="2OqwBi" id="1acYXle0XxW" role="3clFbG">
+                <node concept="2OqwBi" id="1acYXle0SkC" role="2Oq$k0">
+                  <node concept="37vLTw" id="1acYXle0S6Z" role="2Oq$k0">
+                    <ref role="3cqZAo" node="1acYXle061w" resolve="stubNode" />
+                  </node>
+                  <node concept="3Tsc0h" id="1acYXle0VI_" role="2OqNvi">
+                    <ref role="3TtcxE" to="80bi:6$wrg4A_UKL" resolve="enumMemberDeclaration" />
+                  </node>
+                </node>
+                <node concept="TSZUe" id="1acYXle0ZD_" role="2OqNvi">
+                  <node concept="1eOMI4" id="1acYXle0UQe" role="25WWJ7">
+                    <node concept="10QFUN" id="1acYXle0UQb" role="1eOMHV">
+                      <node concept="3Tqbb2" id="1acYXle0UXU" role="10QFUM">
+                        <ref role="ehGHo" to="80bi:6$wrg4A_UKD" resolve="EnumMemberDeclaration" />
+                      </node>
+                      <node concept="37vLTw" id="1acYXle0UDu" role="10QFUP">
+                        <ref role="3cqZAo" node="1acYXle0J31" resolve="childSNode" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3cpWsn" id="1acYXle0J3H" role="1Duv9x">
+            <property role="TrG5h" value="childSpec" />
+            <node concept="3uibUv" id="1acYXle0J3I" role="1tU5fm">
+              <ref role="3uigEE" to="v0q3:3mOrQ__xOlU" resolve="MpsEntitySpec" />
+            </node>
+          </node>
+          <node concept="2OqwBi" id="1acYXle0J3J" role="1DdaDG">
+            <node concept="37vLTw" id="1acYXle0J3K" role="2Oq$k0">
+              <ref role="3cqZAo" node="1acYXle061h" resolve="mpsEntitySpec" />
+            </node>
+            <node concept="liA8E" id="1acYXle0J3L" role="2OqNvi">
+              <ref role="37wK5l" to="v0q3:7e0AhKzEq2h" resolve="getChildSpecs" />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="1acYXle0627" role="3cqZAp" />
+        <node concept="3clFbJ" id="1acYXle0628" role="3cqZAp">
+          <node concept="3clFbS" id="1acYXle0629" role="3clFbx">
+            <node concept="3cpWs6" id="1acYXle062a" role="3cqZAp">
+              <node concept="2ShNRf" id="1acYXle062b" role="3cqZAk">
+                <node concept="1pGfFk" id="1acYXle062c" role="2ShVmc">
+                  <ref role="37wK5l" to="v0q3:k9tZZRVIcW" resolve="Stub" />
+                  <node concept="37vLTw" id="1acYXle062d" role="37wK5m">
+                    <ref role="3cqZAo" node="1acYXle061h" resolve="mpsEntitySpec" />
+                  </node>
+                  <node concept="37vLTw" id="1acYXle062e" role="37wK5m">
+                    <ref role="3cqZAo" node="1acYXle061w" resolve="stubNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3clFbC" id="1acYXle062f" role="3clFbw">
+            <node concept="10Nm6u" id="1acYXle062g" role="3uHU7w" />
+            <node concept="37vLTw" id="1acYXle062h" role="3uHU7B">
+              <ref role="3cqZAo" node="1acYXle061n" resolve="alreadyGeneratedPart" />
+            </node>
+          </node>
+          <node concept="9aQIb" id="1acYXle062i" role="9aQIa">
+            <node concept="3clFbS" id="1acYXle062j" role="9aQI4">
+              <node concept="3cpWs6" id="1acYXle062k" role="3cqZAp">
+                <node concept="37vLTw" id="1acYXle062l" role="3cqZAk">
+                  <ref role="3cqZAo" node="1acYXle061n" resolve="alreadyGeneratedPart" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="3Tm6S6" id="1acYXle062m" role="1B3o_S" />
+      <node concept="3uibUv" id="1acYXle0pX0" role="3clF45">
+        <ref role="3uigEE" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+      </node>
+      <node concept="P$JXv" id="1acYXle062o" role="lGtFl">
+        <node concept="TZ5HA" id="1acYXle062p" role="TZ5H$">
+          <node concept="1dT_AC" id="1acYXle062q" role="1dT_Ay">
+            <property role="1dT_AB" value="Creates and returns an " />
+          </node>
+          <node concept="1dT_AA" id="1acYXle062r" role="1dT_Ay">
+            <node concept="92FcH" id="1acYXle062s" role="qph3F">
+              <node concept="TZ5HA" id="1acYXle062t" role="2XjZqd" />
+              <node concept="VXe08" id="1acYXle062u" role="92FcQ">
+                <ref role="VXe09" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+              </node>
+            </node>
+          </node>
+          <node concept="1dT_AC" id="1acYXle062v" role="1dT_Ay">
+            <property role="1dT_AB" value=" representing an enum." />
+          </node>
         </node>
       </node>
     </node>
