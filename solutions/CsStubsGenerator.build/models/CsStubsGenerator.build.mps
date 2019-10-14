@@ -274,6 +274,16 @@
             </node>
           </node>
         </node>
+        <node concept="1SiIV0" id="6K9qDi2Z7T_" role="3bR37C">
+          <node concept="3bR9La" id="6K9qDi2Z7TA" role="1SiIV1">
+            <ref role="3bR37D" to="jn6j:4xDflt7HBlG" resolve="CsBaseLanguage" />
+          </node>
+        </node>
+        <node concept="1SiIV0" id="6K9qDi2Z7TB" role="3bR37C">
+          <node concept="3bR9La" id="6K9qDi2Z7TC" role="1SiIV1">
+            <ref role="3bR37D" to="ffeo:7Kfy9QB6LfQ" resolve="jetbrains.mps.kernel" />
+          </node>
+        </node>
       </node>
     </node>
   </node>
