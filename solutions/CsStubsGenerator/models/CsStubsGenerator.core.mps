@@ -573,7 +573,7 @@
           </node>
           <node concept="3KbdKl" id="1acYXle2dwk" role="3KbHQx">
             <node concept="Xl_RD" id="1acYXle2dwl" role="3Kbmr1">
-              <property role="Xl_RC" value="EnumValue" />
+              <property role="Xl_RC" value="EnumMember" />
             </node>
             <node concept="3clFbS" id="1acYXle2dwm" role="3Kbo56">
               <node concept="3clFbF" id="1acYXle2dwn" role="3cqZAp">
@@ -1057,7 +1057,7 @@
           </node>
           <node concept="3KbdKl" id="1acYXle25DU" role="3KbHQx">
             <node concept="Xl_RD" id="1acYXle25DV" role="3Kbmr1">
-              <property role="Xl_RC" value="EnumValue" />
+              <property role="Xl_RC" value="EnumMember" />
             </node>
             <node concept="3clFbS" id="1acYXle25DW" role="3Kbo56">
               <node concept="3cpWs6" id="1acYXle25DX" role="3cqZAp">
