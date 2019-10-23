@@ -1913,7 +1913,12 @@
                           </node>
                         </node>
                         <node concept="1dT_AC" id="5I8AruOpALp" role="1dT_Ay">
-                          <property role="1dT_AB" value=" and returns a " />
+                          <property role="1dT_AB" value="" />
+                        </node>
+                      </node>
+                      <node concept="TZ5HA" id="5gv2HrLH3P1" role="TZ5H$">
+                        <node concept="1dT_AC" id="5gv2HrLH3P2" role="1dT_Ay">
+                          <property role="1dT_AB" value="and returns a " />
                         </node>
                         <node concept="1dT_AA" id="5I8AruOpALq" role="1dT_Ay">
                           <node concept="92FcH" id="5I8AruOpALr" role="qph3F">
@@ -1957,7 +1962,12 @@
                       </node>
                       <node concept="TZ5HA" id="5I8AruOpALF" role="TZ5H$">
                         <node concept="1dT_AC" id="5I8AruOpALG" role="1dT_Ay">
-                          <property role="1dT_AB" value="The implementation should not traverse the subtree of the given " />
+                          <property role="1dT_AB" value="The implementation should not traverse the subtree of the given" />
+                        </node>
+                      </node>
+                      <node concept="TZ5HA" id="5gv2HrLH3Tu" role="TZ5H$">
+                        <node concept="1dT_AC" id="5gv2HrLH3Tv" role="1dT_Ay">
+                          <property role="1dT_AB" value="" />
                         </node>
                         <node concept="1dT_AA" id="5I8AruOpALH" role="1dT_Ay">
                           <node concept="92FcH" id="5I8AruOpALI" role="qph3F">
@@ -2006,6 +2016,37 @@
                         </node>
                       </node>
                       <node concept="3clFbH" id="5I8AruOpAM0" role="3cqZAp" />
+                      <node concept="3SKdUt" id="5gv2HrLH_hs" role="3cqZAp">
+                        <node concept="1PaTwC" id="5gv2HrLH_ht" role="3ndbpf">
+                          <node concept="3oM_SD" id="5gv2HrLH_hv" role="1PaTwD">
+                            <property role="3oM_SC" value="Note" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHCCH" role="1PaTwD">
+                            <property role="3oM_SC" value="that" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHDjS" role="1PaTwD">
+                            <property role="3oM_SC" value="Model" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHEM3" role="1PaTwD">
+                            <property role="3oM_SC" value="elements" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHEMo" role="1PaTwD">
+                            <property role="3oM_SC" value="do" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHEMu" role="1PaTwD">
+                            <property role="3oM_SC" value="not" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHEMH" role="1PaTwD">
+                            <property role="3oM_SC" value="have" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHEMP" role="1PaTwD">
+                            <property role="3oM_SC" value="entity" />
+                          </node>
+                          <node concept="3oM_SD" id="5gv2HrLHENu" role="1PaTwD">
+                            <property role="3oM_SC" value="IDs" />
+                          </node>
+                        </node>
+                      </node>
                       <node concept="3clFbJ" id="5I8AruOpAM1" role="3cqZAp">
                         <node concept="3clFbS" id="5I8AruOpAM2" role="3clFbx">
                           <node concept="3cpWs6" id="5I8AruOpAM3" role="3cqZAp">
@@ -2027,14 +2068,32 @@
                           </node>
                         </node>
                         <node concept="3eNFk2" id="5I8AruOpAM9" role="3eNLev">
-                          <node concept="2OqwBi" id="5I8AruOpAMa" role="3eO9$A">
-                            <node concept="37vLTw" id="1CHS2Qp3pdW" role="2Oq$k0">
-                              <ref role="3cqZAo" node="5I8AruOpAKZ" resolve="searchedEntityIdStr" />
+                          <node concept="22lmx$" id="5gv2HrLHpK6" role="3eO9$A">
+                            <node concept="2OqwBi" id="5I8AruOpAMa" role="3uHU7w">
+                              <node concept="37vLTw" id="1CHS2Qp3pdW" role="2Oq$k0">
+                                <ref role="3cqZAo" node="5I8AruOpAKZ" resolve="searchedEntityIdStr" />
+                              </node>
+                              <node concept="liA8E" id="5I8AruOpAMc" role="2OqNvi">
+                                <ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" />
+                                <node concept="37vLTw" id="1CHS2Qp3pgI" role="37wK5m">
+                                  <ref role="3cqZAo" node="5I8AruOpALS" resolve="currentEntityIdStr" />
+                                </node>
+                              </node>
                             </node>
-                            <node concept="liA8E" id="5I8AruOpAMc" role="2OqNvi">
-                              <ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" />
-                              <node concept="37vLTw" id="1CHS2Qp3pgI" role="37wK5m">
-                                <ref role="3cqZAo" node="5I8AruOpALS" resolve="currentEntityIdStr" />
+                            <node concept="2OqwBi" id="5gv2HrLHwSe" role="3uHU7B">
+                              <node concept="Xl_RD" id="5gv2HrLHw_9" role="2Oq$k0">
+                                <property role="Xl_RC" value="Model" />
+                              </node>
+                              <node concept="liA8E" id="5gv2HrLHxm9" role="2OqNvi">
+                                <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
+                                <node concept="2OqwBi" id="5gv2HrLHvHj" role="37wK5m">
+                                  <node concept="37vLTw" id="5gv2HrLHvyx" role="2Oq$k0">
+                                    <ref role="3cqZAo" node="5I8AruOpALO" resolve="mpsEntitySpec" />
+                                  </node>
+                                  <node concept="liA8E" id="5gv2HrLHvPZ" role="2OqNvi">
+                                    <ref role="37wK5l" to="v0q3:6gqrBWD26HC" resolve="getEntityKind" />
+                                  </node>
+                                </node>
                               </node>
                             </node>
                           </node>
@@ -2152,11 +2211,32 @@
     <node concept="3clFb_" id="5rQwcqE9eqH" role="jymVt">
       <property role="TrG5h" value="createModelMpsEntity" />
       <node concept="3clFbS" id="5rQwcqE9eqK" role="3clF47">
+        <node concept="3cpWs8" id="5gv2HrLGkHE" role="3cqZAp">
+          <node concept="3cpWsn" id="5gv2HrLGkHH" role="3cpWs9">
+            <property role="TrG5h" value="modelName" />
+            <node concept="17QB3L" id="5gv2HrLGkHC" role="1tU5fm" />
+            <node concept="10QFUN" id="5gv2HrLGsZL" role="33vP2m">
+              <node concept="17QB3L" id="5gv2HrLGu7u" role="10QFUM" />
+              <node concept="2OqwBi" id="5gv2HrLGrFz" role="10QFUP">
+                <node concept="37vLTw" id="5gv2HrLGqGo" role="2Oq$k0">
+                  <ref role="3cqZAo" node="5rQwcqE9gSW" resolve="mpsEntitySpec" />
+                </node>
+                <node concept="liA8E" id="5gv2HrLGsIE" role="2OqNvi">
+                  <ref role="37wK5l" to="v0q3:6tMbnEHAuS4" resolve="getProperty" />
+                  <node concept="Xl_RD" id="5gv2HrLGsUO" role="37wK5m">
+                    <property role="Xl_RC" value="name" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbH" id="5gv2HrLGfbV" role="3cqZAp" />
         <node concept="2xdQw9" id="5rQwcqE9F3a" role="3cqZAp">
           <property role="2xdLsb" value="h1akgim/info" />
           <node concept="3cpWs3" id="5rQwcqE9F3b" role="9lYJi">
-            <node concept="37vLTw" id="5rQwcqE9F3c" role="3uHU7w">
-              <ref role="3cqZAo" node="5rQwcqE9jRR" resolve="entityId" />
+            <node concept="37vLTw" id="5gv2HrLGua1" role="3uHU7w">
+              <ref role="3cqZAo" node="5gv2HrLGkHH" resolve="modelName" />
             </node>
             <node concept="Xl_RD" id="5rQwcqE9F3d" role="3uHU7B">
               <property role="Xl_RC" value="Creating a \&quot;model\&quot; stub: " />
@@ -2182,8 +2262,8 @@
                     <node concept="37vLTw" id="5rQwcqE9wVc" role="37wK5m">
                       <ref role="3cqZAo" node="5rQwcqE9gSW" resolve="mpsEntitySpec" />
                     </node>
-                    <node concept="37vLTw" id="5rQwcqEaa_l" role="37wK5m">
-                      <ref role="3cqZAo" node="5rQwcqE9jRR" resolve="entityId" />
+                    <node concept="37vLTw" id="5gv2HrLGv4S" role="37wK5m">
+                      <ref role="3cqZAo" node="5gv2HrLGkHH" resolve="modelName" />
                     </node>
                   </node>
                 </node>
@@ -2223,8 +2303,8 @@
                   </node>
                   <node concept="liA8E" id="5rQwcqE9wVw" role="2OqNvi">
                     <ref role="37wK5l" to="v0q3:5kr8aKuXmh0" resolve="setName" />
-                    <node concept="37vLTw" id="5rQwcqE9wVx" role="37wK5m">
-                      <ref role="3cqZAo" node="5rQwcqE9jRR" resolve="entityId" />
+                    <node concept="37vLTw" id="5gv2HrLGw59" role="37wK5m">
+                      <ref role="3cqZAo" node="5gv2HrLGkHH" resolve="modelName" />
                     </node>
                   </node>
                 </node>
@@ -2263,6 +2343,24 @@
         <property role="TrG5h" value="alreadyGeneratedPart" />
         <node concept="3uibUv" id="5rQwcqE9u1U" role="1tU5fm">
           <ref role="3uigEE" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+        </node>
+      </node>
+      <node concept="P$JXv" id="5gv2HrLHiSa" role="lGtFl">
+        <node concept="TZ5HA" id="5gv2HrLHiSb" role="TZ5H$">
+          <node concept="1dT_AC" id="5gv2HrLHiSc" role="1dT_Ay">
+            <property role="1dT_AB" value="Creates and returns an " />
+          </node>
+          <node concept="1dT_AA" id="5gv2HrLHoCV" role="1dT_Ay">
+            <node concept="92FcH" id="5gv2HrLHoD1" role="qph3F">
+              <node concept="TZ5HA" id="5gv2HrLHoD3" role="2XjZqd" />
+              <node concept="VXe08" id="5gv2HrLHoDi" role="92FcQ">
+                <ref role="VXe09" to="v0q3:k9tZZRVG_M" resolve="MpsEntity" />
+              </node>
+            </node>
+          </node>
+          <node concept="1dT_AC" id="5gv2HrLHoCU" role="1dT_Ay">
+            <property role="1dT_AB" value=" representing a model XML entity." />
+          </node>
         </node>
       </node>
     </node>
