@@ -9325,7 +9325,7 @@
         <node concept="3clFbF" id="5rQwcqEc4_z" role="3cqZAp">
           <node concept="37vLTI" id="5rQwcqEc5KW" role="3clFbG">
             <node concept="1rXfSq" id="5rQwcqEc5RN" role="37vLTx">
-              <ref role="37wK5l" node="5rQwcqEbPLd" resolve="getFirstClassInterfaceDelegateNameInSubtree" />
+              <ref role="37wK5l" node="5rQwcqEbPLd" resolve="getFirstFileTopLevelEntityNameInSubtree" />
               <node concept="37vLTw" id="5rQwcqEc6fM" role="37wK5m">
                 <ref role="3cqZAo" node="6hrrLm8YhJL" resolve="spec" />
               </node>
@@ -9387,7 +9387,7 @@
     </node>
     <node concept="2tJIrI" id="5rQwcqEbPma" role="jymVt" />
     <node concept="3clFb_" id="5rQwcqEbPLd" role="jymVt">
-      <property role="TrG5h" value="getFirstClassInterfaceDelegateNameInSubtree" />
+      <property role="TrG5h" value="getFirstFileTopLevelEntityNameInSubtree" />
       <node concept="3clFbS" id="5rQwcqEbPLg" role="3clF47">
         <node concept="3KaCP$" id="5rQwcqEbX8f" role="3cqZAp">
           <node concept="10QFUN" id="5rQwcqEc2Qh" role="3KbGdf">
@@ -9470,6 +9470,52 @@
               </node>
             </node>
           </node>
+          <node concept="3KbdKl" id="1cTfBrwGzdu" role="3KbHQx">
+            <node concept="Xl_RD" id="1cTfBrwGzdv" role="3Kbmr1">
+              <property role="Xl_RC" value="Enum" />
+            </node>
+            <node concept="3clFbS" id="1cTfBrwGzdw" role="3Kbo56">
+              <node concept="3cpWs6" id="1cTfBrwGzdx" role="3cqZAp">
+                <node concept="10QFUN" id="1cTfBrwGzdy" role="3cqZAk">
+                  <node concept="17QB3L" id="1cTfBrwGzdz" role="10QFUM" />
+                  <node concept="2OqwBi" id="1cTfBrwGzd$" role="10QFUP">
+                    <node concept="37vLTw" id="1cTfBrwGzd_" role="2Oq$k0">
+                      <ref role="3cqZAo" node="5rQwcqEbPVj" resolve="spec" />
+                    </node>
+                    <node concept="liA8E" id="1cTfBrwGzdA" role="2OqNvi">
+                      <ref role="37wK5l" to="v0q3:6tMbnEHAuS4" resolve="getProperty" />
+                      <node concept="Xl_RD" id="1cTfBrwGzdB" role="37wK5m">
+                        <property role="Xl_RC" value="name" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3KbdKl" id="1cTfBrwG$vj" role="3KbHQx">
+            <node concept="Xl_RD" id="1cTfBrwG$vk" role="3Kbmr1">
+              <property role="Xl_RC" value="Struct" />
+            </node>
+            <node concept="3clFbS" id="1cTfBrwG$vl" role="3Kbo56">
+              <node concept="3cpWs6" id="1cTfBrwG$vm" role="3cqZAp">
+                <node concept="10QFUN" id="1cTfBrwG$vn" role="3cqZAk">
+                  <node concept="17QB3L" id="1cTfBrwG$vo" role="10QFUM" />
+                  <node concept="2OqwBi" id="1cTfBrwG$vp" role="10QFUP">
+                    <node concept="37vLTw" id="1cTfBrwG$vq" role="2Oq$k0">
+                      <ref role="3cqZAo" node="5rQwcqEbPVj" resolve="spec" />
+                    </node>
+                    <node concept="liA8E" id="1cTfBrwG$vr" role="2OqNvi">
+                      <ref role="37wK5l" to="v0q3:6tMbnEHAuS4" resolve="getProperty" />
+                      <node concept="Xl_RD" id="1cTfBrwG$vs" role="37wK5m">
+                        <property role="Xl_RC" value="name" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
           <node concept="3clFbS" id="5rQwcqEbXxc" role="3Kb1Dw">
             <node concept="1DcWWT" id="5rQwcqEbYsP" role="3cqZAp">
               <node concept="3clFbS" id="5rQwcqEbYsR" role="2LFqv$">
@@ -9478,7 +9524,7 @@
                     <property role="TrG5h" value="childResult" />
                     <node concept="17QB3L" id="5rQwcqEbZ70" role="1tU5fm" />
                     <node concept="1rXfSq" id="5rQwcqEbZ$V" role="33vP2m">
-                      <ref role="37wK5l" node="5rQwcqEbPLd" resolve="getFirstClassInterfaceDelegateNameInSubtree" />
+                      <ref role="37wK5l" node="5rQwcqEbPLd" resolve="getFirstFileTopLevelEntityNameInSubtree" />
                       <node concept="37vLTw" id="5rQwcqEbZDm" role="37wK5m">
                         <ref role="3cqZAo" node="5rQwcqEbYsS" resolve="childSpec" />
                       </node>
@@ -9533,7 +9579,7 @@
       <node concept="P$JXv" id="5rQwcqEbV1R" role="lGtFl">
         <node concept="TZ5HA" id="5rQwcqEbV1S" role="TZ5H$">
           <node concept="1dT_AC" id="5rQwcqEbV1T" role="1dT_Ay">
-            <property role="1dT_AB" value="Returns the name of the first class / interface / delegate in the depth-first search." />
+            <property role="1dT_AB" value="Returns the name of the first class / interface / delegate / struct / enum in the depth-first search." />
           </node>
         </node>
       </node>
