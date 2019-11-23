@@ -7013,12 +7013,12 @@
           <node concept="3cpWsn" id="5I8AruOnKVG" role="3cpWs9">
             <property role="TrG5h" value="identifier" />
             <node concept="3Tqbb2" id="5I8AruOnKVB" role="1tU5fm">
-              <ref role="ehGHo" to="80bi:5VT83U$MIqV" resolve="Identifier" />
+              <ref role="ehGHo" to="80bi:6JhOkL8vqJY" resolve="VariableDeclaration" />
             </node>
             <node concept="2ShNRf" id="5I8AruOnLZ1" role="33vP2m">
               <node concept="3zrR0B" id="5I8AruOnJgq" role="2ShVmc">
                 <node concept="3Tqbb2" id="5I8AruOnJgs" role="3zrR0E">
-                  <ref role="ehGHo" to="80bi:5VT83U$MIqV" resolve="Identifier" />
+                  <ref role="ehGHo" to="80bi:6JhOkL8vqJY" resolve="VariableDeclaration" />
                 </node>
               </node>
             </node>
@@ -7044,8 +7044,8 @@
               <node concept="37vLTw" id="5I8AruOnNjn" role="2Oq$k0">
                 <ref role="3cqZAo" node="5I8AruOnKVG" resolve="identifier" />
               </node>
-              <node concept="3TrcHB" id="5I8AruOp6Wg" role="2OqNvi">
-                <ref role="3TsBF5" to="80bi:2HIntxMTnPR" resolve="value" />
+              <node concept="3TrcHB" id="6yJfactz2PO" role="2OqNvi">
+                <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
               </node>
             </node>
           </node>
