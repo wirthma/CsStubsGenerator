@@ -12,6 +12,12 @@ It is based upon [the *StubsGeneration* plugin](https://github.com/wirthma/Stubs
 - [XML specification file structure](./doc/xml.md)
 - [Tutorial for generation of C# library stubs](./doc/tutorial_generate_library_stubs.md)
 
+## Building the plugin
+
+- In solution `CsStubsGenerator.build` locate build project `CsStubsGenerator` (with spider icon)
+- Right click on spider icon
+- Use option `Run 'CsStubsGenerator'` 
+
 ## Related Projects
 
 - Projects related to generation of library stubs for the C# base language:
