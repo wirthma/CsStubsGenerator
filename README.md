@@ -9,6 +9,7 @@ It is based upon [the *StubsGeneration* plugin](https://github.com/wirthma/Stubs
 
 - Please, start with the documentation of
 [the *StubsGeneration* plugin](https://github.com/wirthma/StubsGenerator).
+- [How to build the plugin](./doc/building_plugin.md)
 - [XML specification file structure](./doc/xml.md)
 - [Tutorial for generation of C# library stubs](./doc/tutorial_generate_library_stubs.md)
 
