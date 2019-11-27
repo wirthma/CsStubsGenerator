@@ -131,24 +131,40 @@
     </node>
     <node concept="2sgV4H" id="1TJnN$A5BW3" role="1l3spa">
       <ref role="1l3spb" to="sos5:36GfYcKxStT" resolve="StubsGenerator" />
-      <node concept="398BVA" id="61uqPTOTeHT" role="2JcizS">
-        <ref role="398BVh" node="1nUAdCY6bXN" resolve="mps_home" />
-        <node concept="2Ry0Ak" id="61uqPTOTeHW" role="iGT6I">
-          <property role="2Ry0Am" value="config" />
-          <node concept="2Ry0Ak" id="61uqPTOTeHZ" role="2Ry0An">
-            <property role="2Ry0Am" value="plugins" />
+      <node concept="55IIr" id="371JfYfWnB6" role="2JcizS">
+        <node concept="2Ry0Ak" id="371JfYfWnB9" role="iGT6I">
+          <property role="2Ry0Am" value=".." />
+          <node concept="2Ry0Ak" id="371JfYfWnBc" role="2Ry0An">
+            <property role="2Ry0Am" value=".." />
+            <node concept="2Ry0Ak" id="371JfYfWnBh" role="2Ry0An">
+              <property role="2Ry0Am" value=".MPS2019.2" />
+              <node concept="2Ry0Ak" id="371JfYfWnBm" role="2Ry0An">
+                <property role="2Ry0Am" value="config" />
+                <node concept="2Ry0Ak" id="371JfYfWnBr" role="2Ry0An">
+                  <property role="2Ry0Am" value="plugins" />
+                </node>
+              </node>
+            </node>
           </node>
         </node>
       </node>
     </node>
     <node concept="2sgV4H" id="XHGnyDzjkm" role="1l3spa">
       <ref role="1l3spb" to="jn6j:4xDflt7HBlw" resolve="CsBaseLanguage" />
-      <node concept="398BVA" id="61uqPTOThnt" role="2JcizS">
-        <ref role="398BVh" node="1nUAdCY6bXN" resolve="mps_home" />
-        <node concept="2Ry0Ak" id="61uqPTOThnu" role="iGT6I">
-          <property role="2Ry0Am" value="config" />
-          <node concept="2Ry0Ak" id="61uqPTOThnv" role="2Ry0An">
-            <property role="2Ry0Am" value="plugins" />
+      <node concept="55IIr" id="371JfYfWnBJ" role="2JcizS">
+        <node concept="2Ry0Ak" id="371JfYfWnBK" role="iGT6I">
+          <property role="2Ry0Am" value=".." />
+          <node concept="2Ry0Ak" id="371JfYfWnBL" role="2Ry0An">
+            <property role="2Ry0Am" value=".." />
+            <node concept="2Ry0Ak" id="371JfYfWnBM" role="2Ry0An">
+              <property role="2Ry0Am" value=".MPS2019.2" />
+              <node concept="2Ry0Ak" id="371JfYfWnBN" role="2Ry0An">
+                <property role="2Ry0Am" value="config" />
+                <node concept="2Ry0Ak" id="371JfYfWnBO" role="2Ry0An">
+                  <property role="2Ry0Am" value="plugins" />
+                </node>
+              </node>
+            </node>
           </node>
         </node>
       </node>
