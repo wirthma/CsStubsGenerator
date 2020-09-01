@@ -131,8 +131,8 @@
             <property role="2Ry0Am" value=".." />
             <node concept="2Ry0Ak" id="5LtCBUN3Zkz" role="2Ry0An">
               <property role="2Ry0Am" value=".." />
-              <node concept="2Ry0Ak" id="68kwTqmNaWt" role="2Ry0An">
-                <property role="2Ry0Am" value="MPS 2020.1" />
+              <node concept="2Ry0Ak" id="7flNPBKJbY1" role="2Ry0An">
+                <property role="2Ry0Am" value="MPS 2020.2" />
               </node>
             </node>
           </node>
@@ -160,8 +160,14 @@
                   <property role="2Ry0Am" value="Library" />
                   <node concept="2Ry0Ak" id="3DCGQL3aFfO" role="2Ry0An">
                     <property role="2Ry0Am" value="Application Support" />
-                    <node concept="2Ry0Ak" id="6gL2Iovxjmu" role="2Ry0An">
-                      <property role="2Ry0Am" value="MPSSRC2019.3" />
+                    <node concept="2Ry0Ak" id="7flNPBKJbY3" role="2Ry0An">
+                      <property role="2Ry0Am" value="JetBrains" />
+                      <node concept="2Ry0Ak" id="7flNPBKJbY8" role="2Ry0An">
+                        <property role="2Ry0Am" value="MPS2020.2" />
+                        <node concept="2Ry0Ak" id="7flNPBKJbYd" role="2Ry0An">
+                          <property role="2Ry0Am" value="plugins" />
+                        </node>
+                      </node>
                     </node>
                   </node>
                 </node>
@@ -173,21 +179,27 @@
     </node>
     <node concept="2sgV4H" id="XHGnyDzjkm" role="1l3spa">
       <ref role="1l3spb" to="jn6j:4xDflt7HBlw" resolve="CsBaseLanguage" />
-      <node concept="55IIr" id="3DCGQL3aFg_" role="2JcizS">
-        <node concept="2Ry0Ak" id="3DCGQL3aFgA" role="iGT6I">
+      <node concept="55IIr" id="7flNPBKJbYx" role="2JcizS">
+        <node concept="2Ry0Ak" id="7flNPBKJbYy" role="iGT6I">
           <property role="2Ry0Am" value=".." />
-          <node concept="2Ry0Ak" id="3DCGQL3aFgB" role="2Ry0An">
+          <node concept="2Ry0Ak" id="7flNPBKJbYz" role="2Ry0An">
             <property role="2Ry0Am" value=".." />
-            <node concept="2Ry0Ak" id="3DCGQL3aFgC" role="2Ry0An">
+            <node concept="2Ry0Ak" id="7flNPBKJbY$" role="2Ry0An">
               <property role="2Ry0Am" value=".." />
-              <node concept="2Ry0Ak" id="3DCGQL3aFgD" role="2Ry0An">
+              <node concept="2Ry0Ak" id="7flNPBKJbY_" role="2Ry0An">
                 <property role="2Ry0Am" value=".." />
-                <node concept="2Ry0Ak" id="3DCGQL3aFgE" role="2Ry0An">
+                <node concept="2Ry0Ak" id="7flNPBKJbYA" role="2Ry0An">
                   <property role="2Ry0Am" value="Library" />
-                  <node concept="2Ry0Ak" id="3DCGQL3aFgF" role="2Ry0An">
+                  <node concept="2Ry0Ak" id="7flNPBKJbYB" role="2Ry0An">
                     <property role="2Ry0Am" value="Application Support" />
-                    <node concept="2Ry0Ak" id="6gL2Iovxjmw" role="2Ry0An">
-                      <property role="2Ry0Am" value="MPSSRC2019.3" />
+                    <node concept="2Ry0Ak" id="7flNPBKJbYC" role="2Ry0An">
+                      <property role="2Ry0Am" value="JetBrains" />
+                      <node concept="2Ry0Ak" id="7flNPBKJbYD" role="2Ry0An">
+                        <property role="2Ry0Am" value="MPS2020.2" />
+                        <node concept="2Ry0Ak" id="7flNPBKJbYE" role="2Ry0An">
+                          <property role="2Ry0Am" value="plugins" />
+                        </node>
+                      </node>
                     </node>
                   </node>
                 </node>
@@ -223,7 +235,7 @@
       </node>
       <node concept="3_J27D" id="RqQxlJCzAU" role="m$_w8">
         <node concept="3Mxwew" id="RqQxlJCzAV" role="3MwsjC">
-          <property role="3MwjfP" value="1.3" />
+          <property role="3MwjfP" value="1.5" />
         </node>
       </node>
       <node concept="m$f5U" id="1aAdOza38xY" role="m$_yh">
