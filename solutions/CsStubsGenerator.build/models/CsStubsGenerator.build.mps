@@ -131,8 +131,8 @@
             <property role="2Ry0Am" value=".." />
             <node concept="2Ry0Ak" id="5LtCBUN3Zkz" role="2Ry0An">
               <property role="2Ry0Am" value=".." />
-              <node concept="2Ry0Ak" id="71xFhbg$xv4" role="2Ry0An">
-                <property role="2Ry0Am" value="MPS 2021.3" />
+              <node concept="2Ry0Ak" id="3US7CcGyrHl" role="2Ry0An">
+                <property role="2Ry0Am" value="MPS 2022.2" />
               </node>
             </node>
           </node>
@@ -163,7 +163,7 @@
                     <node concept="2Ry0Ak" id="7flNPBKJbY3" role="2Ry0An">
                       <property role="2Ry0Am" value="JetBrains" />
                       <node concept="2Ry0Ak" id="7flNPBKJbY8" role="2Ry0An">
-                        <property role="2Ry0Am" value="MPS2021.2" />
+                        <property role="2Ry0Am" value="MPS2022.2" />
                         <node concept="2Ry0Ak" id="7flNPBKJbYd" role="2Ry0An">
                           <property role="2Ry0Am" value="plugins" />
                         </node>
@@ -195,7 +195,7 @@
                     <node concept="2Ry0Ak" id="7flNPBKJbYC" role="2Ry0An">
                       <property role="2Ry0Am" value="JetBrains" />
                       <node concept="2Ry0Ak" id="7flNPBKJbYD" role="2Ry0An">
-                        <property role="2Ry0Am" value="MPS2021.2" />
+                        <property role="2Ry0Am" value="MPS2022.2" />
                         <node concept="2Ry0Ak" id="7flNPBKJbYE" role="2Ry0An">
                           <property role="2Ry0Am" value="plugins" />
                         </node>
@@ -235,7 +235,7 @@
       </node>
       <node concept="3_J27D" id="RqQxlJCzAU" role="m$_w8">
         <node concept="3Mxwew" id="RqQxlJCzAV" role="3MwsjC">
-          <property role="3MwjfP" value="1.11" />
+          <property role="3MwjfP" value="1.2" />
         </node>
       </node>
       <node concept="m$f5U" id="1aAdOza38xY" role="m$_yh">
